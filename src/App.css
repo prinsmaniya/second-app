@@ -1,0 +1,499 @@
+.top-menu{
+    background-color:  #0F0F0F;
+    color: #8c8c8c;
+}
+.top1{
+    padding: 11px 0;
+}
+.top22{
+    width: 16px;
+}
+.top2{
+    font-size: 16px;
+
+}
+.header .navbar {
+    --bs-navbar-color: #f8f9fa !important;
+}
+.search{
+    color: #f8f9fa;
+
+}
+.header{
+    background-color: rgba(15, 15, 15, 0.95) !important;
+    font-size: 16px;
+    font-weight: 400;
+}
+.header ul li{
+    margin: auto;
+}
+.row{
+    align-items: center;
+}
+.menu{
+    padding: 22px 0px;
+    align-items: center;
+    top: 10px;
+}
+.search{
+    font-size: 18px;
+}
+.content{
+    position: absolute;
+    top: 30%;
+    color: white !important;
+}
+.item img{
+    position: relative;
+}
+.slider1 .content .text {
+    position: relative;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.8em;
+    margin-top: 35px;
+    margin-bottom: 40px;
+    max-width: 500px;
+   
+}
+.text {
+    font-size: 16px;
+    line-height: 1.6em;
+    font-weight: 400;
+    color: #555555;
+    margin: 0;
+}
+.slider1 .owl-prev {
+    position: absolute;
+    top: 40%;
+    left: 0px;
+    width: 50px;
+    height: 60px;
+    font-size: 24px;
+    line-height: 60px;
+    border-radius: 0px 5px 5px 0px;
+    opacity: 0.70;
+    text-align: center;
+    color: #353535;
+    transition: all 0.5s ease;
+    background-image: none;
+    background-color: rgba(255,255,255,0.90);
+}
+.slider1 .owl-next {
+    position: absolute;
+    top: 40%;
+    right: 0px;
+    width: 50px;
+    height: 60px;
+    font-size: 24px;
+    line-height: 60px;
+    border-radius: 0px 5px 5px 0px;
+    opacity: 0.70;
+    text-align: center;
+    color: #353535;
+    transition: all 0.5s ease;
+    background-image: none;
+    background-color: rgba(255,255,255,0.90);
+}
+     
+/* Logistics and Transposition start */
+.welcome .title h2 {
+    position: relative;
+    color: #242424;
+    font-size: 25px;
+    line-height: 1.4em;
+    padding-bottom: 25px;
+    text-align: center;
+}
+.welcome {
+    position: relative;
+    padding: 55px 0px 40px;
+}
+.welcome .title h2:before {
+    position: absolute;
+    content: '';
+    left: 50%;
+    bottom: 0px;
+    height: 2px;
+    width: 80px;
+    margin-left: -40px;
+    background-color: #228dcb;
+}
+.welcome .color{
+    color: #228DCB;
+    font-weight: bold;
+}
+.welcome .content-column {
+    position: relative;
+    margin-bottom: 40px;
+}
+.welcome1{
+    margin-top: 40px !important;
+}
+.video-column img{
+    vertical-align: middle;
+}
+.welcome .video-column {
+    position: relative;
+    margin-bottom: 40px;
+}
+.welcome .video-column .inner-column {
+    position: relative;
+    padding-left: 50px;
+}
+.list-style-three li {
+    position: relative;
+    font-size: 20px;
+    line-height: 24px;
+    color: #242424;
+    font-weight: 400;
+    padding-left: 32px;
+    margin-bottom: 16px;
+    font-family: 'Poppins', serif;
+}
+
+ul, li{
+    list-style: none;
+}
+/* Logistics and Transposition end */
+
+
+/* services-section start */
+.services-section-two{
+    background-color: #F2F0F8;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.services-section-two .sec-title h2 {
+    position: relative;
+    display: block;
+    font-size: 38px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 700;
+}
+.sec-title .color{
+    color: #228DCB;
+}
+.sec-title .text {
+    position: relative;
+    color: #000;
+    font-size: 16px;
+    line-height: 1.9em;
+    margin-top: 12px;
+}
+
+.a{
+    text-underline-offset: none;
+}
+.service-block-two {
+    position: relative;
+    margin-bottom: 30px;
+
+}
+.service-block-two .inner-box {
+    position: relative;
+    padding: 200px 25px 30px;
+    background-color: white;
+}
+.icon-box{
+    color: #228dcb;
+    font-size: 50px;
+    line-height: 1em;
+    margin-right: 10px;
+}
+.col-lg-4, .col-md-6, .col-sm-12{
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.service-block-two .inner-box .content h3 a {
+    position: relative;
+    color: #222222;
+    font-size: 21px;
+    text-decoration: none;
+    outline: none;
+}
+.service-block-two .inner-box .content .text {
+    position: relative;
+    color: #000;
+    font-size: 14px;
+    line-height: 1.7em;
+    margin-top: 12px;
+}
+.service-block-two .inner-box .content .read-more {
+    position: relative;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 30px;
+    color: #228dcb;
+    padding: 5px 20px;
+    font-weight: bold;
+    overflow: hidden;
+    background-color: #242424 !important;
+    text-transform: capitalize;
+    font-family: 'Open Sans', sans-serif;
+    -webkit-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;
+    margin-top: 15px;
+    text-decoration: none;
+}
+/* services-section end */
+
+/* Testimonial Section start  */
+.testimonial-section {
+    position: relative;
+    padding: 90px 0px 110px;
+    background-color: #e0e0e0;
+}
+.sec-title-two h2 {
+    position: relative;
+    display: block;
+    font-size: 38px;
+    line-height: 1.2em;
+    color: #242424;
+    font-weight: 700;
+    text-align: center;
+}
+.sec-title-two .color{
+    color: #228dcb;
+}
+.sec-title-two .title-text {
+    position: relative;
+    color: #000;
+    font-size: 18px;
+    line-height: 1.8em;
+    margin-top: 5px;
+    text-align: center;
+}
+
+/* Testimonial Section end */
+
+ /* Blog Section start */
+ .news-section {
+    position: relative;
+    padding: 90px 0px 60px;
+    background-color: #000;
+}
+.sec-title h2 {
+    position: relative;
+    display: block;
+    font-size: 38px;
+    line-height: 1.2em;
+    color: white;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.news-block .inner-box .image {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    background-color: #000000;
+}
+.news-block .inner-box .lower-content .post-meta li {
+    position: relative;
+    color: #000;
+    font-size: 15px;
+    display: inline-block;
+    padding-right: 15px;
+    margin-right: 15px;
+    line-height: 1.3em;
+    border-right: 1px solid #242424;
+}
+.news-block .inner-box .lower-content h3 {
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.6em;
+    margin-top: 15px;
+    text-decoration: none !important;
+}
+
+.news-block .inner-box .lower-content {
+    position: relative;
+    padding: 30px 25px 25px;
+    background-color: #ffffff;
+    margin-bottom: 10px;
+}
+ /* Blog Section end */
+
+/* Call To Action Section  start */
+.call-to-action-section {
+    position: relative;
+    padding: 50px 0px 50px;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.call-to-action-section h2 {
+    position: relative;
+    color: black;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 1.3em;
+}
+.call-to-action-section .btn-style-two {
+    position: relative;
+    display: inline-block;
+    font-size: 15px;
+    line-height: 30px;
+    color: #ffffff;
+    padding: 10px 37px;
+    font-weight: bold;
+    overflow: hidden;
+    letter-spacing: 1px;
+    background-color: #242424;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+/* Call To Action Section  end */
+
+/* footer start */
+.main-footer {
+    position: relative;
+    background-color: #242424;
+}
+.main-footer .logo-widget .logo {
+    position: relative;
+    margin-bottom: 12px;
+}
+.main-footer .logo-widget .text {
+    position: relative;
+    color: #a8a8a8;
+    font-size: 14px;
+    font-weight: 400;
+    padding-right: 60px;
+    margin-bottom: 35px;
+    line-height: 1.9em;
+}
+.main-footer .logo-widget .social-icons {
+    position: relative;
+}
+.main-footer .logo-widget .social-icons li {
+    position: relative;
+    margin-right: 10px;
+    display: inline-block;
+}
+.main-footer .logo-widget .social-icons li .icon{
+    position: relative;
+    width: 36px;
+    height: 36px;
+    font-size: 8px;
+    text-align: center;
+    border-radius: 50%;
+    line-height: 34px;
+    color: #ffffff;
+    font-weight: 200;
+    display: inline-block;
+    border: 1px solid rgba(255,255,255,0.30);
+}
+.main-footer .widgets-section {
+    position: relative;
+    padding: 80px 0px 30px;
+}
+.main-footer .footer-widget {
+    position: relative;
+    margin-bottom: 30px;
+}
+.main-footer .footer-widget h2 {
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    color: #ffffff;
+    padding-bottom: 16px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+.newsletter-form {
+    position: relative;
+    margin-bottom: 30px;
+}
+.newsletter-form .form-group {
+    position: relative;
+    display: block;
+    z-index: 1;
+    margin-bottom: 0px;
+}
+.newsletter-form .form-group input[type="text"], .newsletter-form .form-group input[type="tel"], .newsletter-form .form-group input[type="email"], .newsletter-form .form-group textarea{
+    position: relative;
+    width: 100%;
+    line-height: 28px;
+    padding: 10px 25px;
+    height: 46px;
+    color: #ffffff;
+    display: inline-block;
+    font-size: 14px;
+    background: none;
+    letter-spacing: 1px;
+    border: 1px solid rgba(255,255,255,0.20);
+}
+.newsletter-form .form-group button {
+    margin-top: 0px;
+}
+.btn-style-one {
+    position: relative;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 30px;
+    color: #242424;
+    padding: 8px 26px;
+    font-weight: bold;
+    overflow: hidden;
+    letter-spacing: 1px;
+    background-color: #228dcb;
+    text-transform: capitalize;
+    border: none;
+}
+.contact-widget ul li  {
+    position: relative;
+    color: #a8a8a8;
+    font-size: 15px;
+    line-height: 1.9em;
+    margin-left: 4px;
+    display: inline-block;
+}
+.links-widget .list {
+    position: relative;
+}
+.links-widget .list li {
+    position: relative;
+    margin-bottom: 12px;
+}
+.links-widget .list li {
+    position: relative;
+    color: #a8a8a8;
+    font-size: 15px;
+}
+.main-footer .footer-bottom {
+    position: relative;
+    padding: 25px 0px;
+    border-top: 1px solid rgba(255,255,255,0.10);
+}
+.pull-left {
+    float: left;
+}
+.main-footer .footer-bottom .copyright {
+    position: relative;
+    color: #767676;
+    font-size: 14px;
+}
+
+.pull-right {
+    float: right;
+    position: relative;
+    color: #767676;
+    font-size: 14px;
+}
+/* footer end */
+
+
+
